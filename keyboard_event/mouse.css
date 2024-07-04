@@ -1,0 +1,26 @@
+#mybox{
+    height: 300px;
+    width: 300px;
+    background-color: lightgreen;
+    font-size: 4rem;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+#mybox1{
+    height: 300px;
+    width: 300px;
+    background-color: lightgreen;
+    font-size: 4rem;
+    font-weight: bold;
+     display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center; 
+
+}
+#mybutton{
+    font-size: 3rem;
+}
